@@ -5,7 +5,7 @@
     <string name="spm_notification_tag_title">Совет:</string>
     <string name="spm_notification_low_power_title">При уровне батареи ниже, чем %s тел. автоматически переходит в режим энергосбережения</string>
     <string name="spm_notification_sleep_time_title">Автоматический режим сна, энергосбережение во время сна</string>
-    <string name="dev_bluetooth">Блютуз</string>
+    <string name="dev_bluetooth">Bluetooth</string>
     <string name="dev_gps">GPS</string>
     <string name="dev_haptic">Виброотклик</string>
     <string name="dev_call_msg">Связь</string>
